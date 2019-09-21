@@ -30,7 +30,7 @@ gem 'capistrano', "~> 3.6"
 gem 'capistrano-rails', "~> 1.1.8"
 gem 'capistrano-rbenv', github: "capistrano/rbenv"
 gem 'capistrano-bundler'
-gem 'bootstrap-sass', '~> 3.3.6'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'figaro'
 gem 'faraday'
 gem 'swagger-docs'
